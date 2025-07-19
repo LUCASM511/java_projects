@@ -7,10 +7,10 @@ public class AccountTest {
 		// cria um objeto Scanner para obter entrada a partir d
 		// da janel de comando
 		Scanner input = new Scanner(System.in);
-	
+
 		// cria um objeto Account e o atribui a myAccount
 		Account myAccount = new Account();
-		
+
 		// exibe o valor inicial do name (null)
 		System.out.printf("Initial name is: %s%n%n", myAccount.getName());
 

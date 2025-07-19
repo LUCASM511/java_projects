@@ -7,9 +7,9 @@ class ApostilhaTest {
 		System.out.println("This string is: " + alfabeto);
 		System.out.println("Length: " + alfabeto.length());
 
+    System.out.prin
 		System.out.println("The character at index 5: " + alfabeto.charAt(5));
 		System.out.println("The index of character Z is: " + alfabeto.indexOf('Z'));
-
 
 		String[] cars = {"Volvo", "BMW", "Ferrari"};
 		for (int i = 0; i < cars.length; i++) {

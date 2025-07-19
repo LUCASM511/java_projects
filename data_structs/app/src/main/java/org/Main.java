@@ -7,7 +7,8 @@ class Main {
 		insertion_sort(array);
 
 		for (int i = 1; i <= array.length; i++) {
-			System.out.println(array[i]);
+    System.out.println(array[i]);
+
 		}
 	}
 
